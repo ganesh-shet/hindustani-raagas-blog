@@ -1,1 +1,1 @@
-# hindustani-raagas-blog
+# Djangohindustani-raagas-blog
